@@ -43,6 +43,15 @@ venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
+### 4. Configure Environment Variables
+Create a `.env` file in the root directory with the following variables:
+```
+DB_USER=
+DB_PASSWORD=
+DB_HOST=
+DB_NAME=
+```
+
 ## Database Setup
 
 ### 1. Configure Database Connection
